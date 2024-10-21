@@ -24,9 +24,3 @@ A simple weather application built with React that allows users to view the curr
 
 - Node.js and npm installed on your machine.
 
-### Installation
-
-```bash
-git clone https://github.com/AmanGupta4251/Weather-Application.git
-cd weather-app
-npm install
